@@ -1,10 +1,3 @@
-## Manufacturing Use Case Solution With AI
-
-*Developed By:* Team Vibecoders, Nirma University  
-*For:* JK Lakshmi Cements & Udaipur Cements  
-
----
-
 ## Problem Statement
 
 ### Challenges in Rail Wagon Inspection
